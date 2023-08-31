@@ -1,0 +1,11 @@
+.image {
+    width: 400px;
+    height: 400px;
+}
+.col {
+    margin-bottom: 20px;
+}
+#footer {
+    background-color: rgb(149, 176, 217);
+    margin: 0 auto;
+}
